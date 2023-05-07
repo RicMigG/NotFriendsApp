@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Totally Not Made By Joey App</string>
+    <string name="content_description">Simple greeting icon</string>
+    <string name="placeholder_message">Say Hello!</string>
+    <string name="hint_text">Enter your name</string>
+    <string name="btn_text">update</string>
+</resources>
